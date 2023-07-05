@@ -19,10 +19,12 @@ git clone https://github.com/Shobi172/Weather_App.git
 
 
 cd frontend
+
 npm install
 
 
 cd ../backend
+
 npm install
 
 
@@ -34,10 +36,12 @@ npm install
 
 
 cd frontend
+
 npm start
 
 
 cd ../backend
+
 npm start
 
 
